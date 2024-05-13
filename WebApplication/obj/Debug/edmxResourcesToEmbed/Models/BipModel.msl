@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Db_AracKiralamaModelStoreContainer" CdmEntityContainer="Db_AracKiralamaEntities">
+    <EntitySetMapping Name="Tbl_Araclar">
+      <EntityTypeMapping TypeName="Db_AracKiralamaModel.Tbl_Araclar">
+        <MappingFragment StoreEntitySet="Tbl_Araclar">
+          <ScalarProperty Name="AracId" ColumnName="AracId" />
+          <ScalarProperty Name="Marka" ColumnName="Marka" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="ModelYili" ColumnName="ModelYili" />
+          <ScalarProperty Name="Yakit" ColumnName="Yakit" />
+          <ScalarProperty Name="Vites" ColumnName="Vites" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -76,3 +76,7 @@ C:\Users\ccemy\OneDrive\Desktop\GitHub\ASPNET-MVC\WebApplication\obj\Debug\WebAp
 C:\Users\ccemy\OneDrive\Desktop\GitHub\ASPNET-MVC\WebApplication\obj\Debug\WebAppli.11721D13.Up2Date
 C:\Users\ccemy\OneDrive\Desktop\GitHub\ASPNET-MVC\WebApplication\obj\Debug\WebApplication.dll
 C:\Users\ccemy\OneDrive\Desktop\GitHub\ASPNET-MVC\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\ccemy\OneDrive\Desktop\GitHub\ASPNET-MVC\WebApplication\bin\EntityFramework.dll
+C:\Users\ccemy\OneDrive\Desktop\GitHub\ASPNET-MVC\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\ccemy\OneDrive\Desktop\GitHub\ASPNET-MVC\WebApplication\bin\EntityFramework.xml
+C:\Users\ccemy\OneDrive\Desktop\GitHub\ASPNET-MVC\WebApplication\bin\EntityFramework.SqlServer.xml
