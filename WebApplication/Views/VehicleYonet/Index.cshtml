@@ -46,7 +46,7 @@
     @foreach (var item in Model) {
         <tr>
             <td>
-                @{ 
+                @{ // duruma göre ekle boş resimler gösterilmesin
                     var dir = "/VehicleImages/" + item.AracId + ".jpg";
                     <img src="@Url.Content(dir)" width="100"/>
                 }

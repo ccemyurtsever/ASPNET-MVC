@@ -155,17 +155,14 @@
     <None Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Vehicle\Index.cshtml" />
-    <Content Include="Views\Vehicle\Create.cshtml" />
-    <Content Include="Views\Vehicle\Delete.cshtml" />
-    <Content Include="Views\Vehicle\Details.cshtml" />
-    <Content Include="Views\Vehicle\Edit.cshtml" />
     <Content Include="Views\VehicleYonet\Create.cshtml" />
     <Content Include="Views\VehicleYonet\Delete.cshtml" />
     <Content Include="Views\VehicleYonet\Details.cshtml" />
     <Content Include="Views\VehicleYonet\Edit.cshtml" />
     <Content Include="Views\VehicleYonet\Index.cshtml" />
     <Content Include="Views\VehicleYonet\SaveImages.cshtml" />
+    <Content Include="Views\Vehicle\Index.cshtml" />
+    <Content Include="Views\Vehicle\Details.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
