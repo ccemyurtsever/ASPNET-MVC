@@ -118,7 +118,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CustomerController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\RezervationController.cs" />
     <Compile Include="Controllers\VehicleController.cs" />
     <Compile Include="Controllers\VehicleYonetController.cs" />
     <Compile Include="Global.asax.cs">
@@ -140,6 +142,9 @@
       <DependentUpon>BipModel.edmx</DependentUpon>
     </Compile>
     <Compile Include="Models\Tbl_Araclar.cs">
+      <DependentUpon>BipModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Tbl_Musteriler.cs">
       <DependentUpon>BipModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Tbl_Rezervasyonlar.cs">
@@ -168,6 +173,8 @@
     <Content Include="Views\Vehicle\Index.cshtml" />
     <Content Include="Views\Vehicle\Details.cshtml" />
     <Content Include="Views\Vehicle\Rezervation.cshtml" />
+    <Content Include="Views\Rezervation\Index.cshtml" />
+    <Content Include="Views\Customer\Giris.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

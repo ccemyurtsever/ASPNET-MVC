@@ -12,6 +12,16 @@
     <Property Name="Vites" Type="nvarchar" MaxLength="20" />
     <Property Name="Fiyat" Type="money" />
   </EntityType>
+  <EntityType Name="Tbl_Musteriler">
+    <Key>
+      <PropertyRef Name="TcKimlik" />
+    </Key>
+    <Property Name="TcKimlik" Type="int" Nullable="false" />
+    <Property Name="AdSoyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="DogumTarihi" Type="date" />
+    <Property Name="Cinsiyet" Type="varchar" MaxLength="1" />
+    <Property Name="Sifre" Type="varbinary" MaxLength="32" />
+  </EntityType>
   <EntityType Name="Tbl_Rezervasyonlar">
     <Key>
       <PropertyRef Name="RezervasyonId" />
@@ -26,6 +36,7 @@
   </EntityType>
   <EntityContainer Name="Db_AracKiralamaModelStoreContainer">
     <EntitySet Name="Tbl_Araclar" EntityType="Self.Tbl_Araclar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Musteriler" EntityType="Self.Tbl_Musteriler" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Tbl_Rezervasyonlar" EntityType="Self.Tbl_Rezervasyonlar" Schema="dbo" store:Type="Tables" />
   </EntityContainer>
 </Schema>

@@ -17,6 +17,16 @@
           <Property Name="Vites" Type="nvarchar" MaxLength="20" />
           <Property Name="Fiyat" Type="money" />
         </EntityType>
+        <EntityType Name="Tbl_Musteriler">
+          <Key>
+            <PropertyRef Name="TcKimlik" />
+          </Key>
+          <Property Name="TcKimlik" Type="int" Nullable="false" />
+          <Property Name="AdSoyad" Type="nvarchar" MaxLength="50" />
+          <Property Name="DogumTarihi" Type="date" />
+          <Property Name="Cinsiyet" Type="varchar" MaxLength="1" />
+          <Property Name="Sifre" Type="varbinary" MaxLength="32" />
+        </EntityType>
         <EntityType Name="Tbl_Rezervasyonlar">
           <Key>
             <PropertyRef Name="RezervasyonId" />
@@ -31,6 +41,7 @@
         </EntityType>
         <EntityContainer Name="Db_AracKiralamaModelStoreContainer">
           <EntitySet Name="Tbl_Araclar" EntityType="Self.Tbl_Araclar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_Musteriler" EntityType="Self.Tbl_Musteriler" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Tbl_Rezervasyonlar" EntityType="Self.Tbl_Rezervasyonlar" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
       </Schema></edmx:StorageModels>
@@ -52,6 +63,7 @@
         <EntityContainer Name="Db_AracKiralamaEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Tbl_Araclar" EntityType="Self.Tbl_Araclar" />
           <EntitySet Name="Tbl_Rezervasyonlar" EntityType="Db_AracKiralamaModel.Tbl_Rezervasyonlar" />
+          <EntitySet Name="Tbl_Musteriler" EntityType="Db_AracKiralamaModel.Tbl_Musteriler" />
         </EntityContainer>
         <EntityType Name="Tbl_Rezervasyonlar">
           <Key>
@@ -64,6 +76,16 @@
           <Property Name="AlmaTarihi" Type="DateTime" Precision="0" />
           <Property Name="TeslimTarihi" Type="DateTime" Precision="0" />
           <Property Name="Ucret" Type="Decimal" Precision="19" Scale="4" />
+        </EntityType>
+        <EntityType Name="Tbl_Musteriler">
+          <Key>
+            <PropertyRef Name="TcKimlik" />
+          </Key>
+          <Property Name="TcKimlik" Type="Int32" Nullable="false" />
+          <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DogumTarihi" Type="DateTime" Precision="0" />
+          <Property Name="Cinsiyet" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="Sifre" Type="Binary" MaxLength="32" FixedLength="false" />
         </EntityType>
       </Schema>
     </edmx:ConceptualModels>
@@ -94,6 +116,17 @@
                 <ScalarProperty Name="TcKimlik" ColumnName="TcKimlik" />
                 <ScalarProperty Name="AracId" ColumnName="AracId" />
                 <ScalarProperty Name="RezervasyonId" ColumnName="RezervasyonId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_Musteriler">
+            <EntityTypeMapping TypeName="Db_AracKiralamaModel.Tbl_Musteriler">
+              <MappingFragment StoreEntitySet="Tbl_Musteriler">
+                <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+                <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+                <ScalarProperty Name="DogumTarihi" ColumnName="DogumTarihi" />
+                <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+                <ScalarProperty Name="TcKimlik" ColumnName="TcKimlik" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
