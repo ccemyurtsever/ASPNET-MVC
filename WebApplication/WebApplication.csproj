@@ -108,6 +108,7 @@
       <LastGenOutput>BipModel.Context.cs</LastGenOutput>
       <DependentUpon>BipModel.edmx</DependentUpon>
     </Content>
+    <Content Include="Models\BipModel.edmx.sql" />
     <Content Include="Models\BipModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>BipModel.edmx</DependentUpon>
@@ -141,6 +142,9 @@
     <Compile Include="Models\Tbl_Araclar.cs">
       <DependentUpon>BipModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\Tbl_Rezervasyonlar.cs">
+      <DependentUpon>BipModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -163,6 +167,7 @@
     <Content Include="Views\VehicleYonet\SaveImages.cshtml" />
     <Content Include="Views\Vehicle\Index.cshtml" />
     <Content Include="Views\Vehicle\Details.cshtml" />
+    <Content Include="Views\Vehicle\Rezervation.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

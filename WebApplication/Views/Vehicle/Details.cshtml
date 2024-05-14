@@ -17,55 +17,81 @@
         <h1>Sakarya BİP Otomativ</h1>
         <h3>Araç Bilgileri</h3>
         <hr />
+
+        
+
+        <table border="1" cellpadding="6" cellspacing="0">
+            <tr>
+                <td colspan="2">
+
+                    @{
+                        var dir = "~/VehicleImages/" + Html.DisplayFor(model => model.AracId) + ".jpg";
+                        string FolderPath = Path.Combine(Server.MapPath(dir));
+                        if (System.IO.File.Exists(FolderPath))
+                        {
+                            <img src="@Url.Content(dir)" width="100" />
+                        }
+                    }
+                </td>
+            </tr>
+            <tr>
+                <td width="30%">Marka</td>
+                <td>@Html.DisplayFor(model => model.Marka) </td>
+            </tr>
+        </table>
+
+
+
+
         <dl class="dl-horizontal">
             <dt>
                 @Html.DisplayNameFor(model => model.Marka)
             </dt>
-    
+
             <dd>
                 @Html.DisplayFor(model => model.Marka)
             </dd>
-    
+
             <dt>
                 @Html.DisplayNameFor(model => model.Model)
             </dt>
-    
+
             <dd>
                 @Html.DisplayFor(model => model.Model)
             </dd>
-    
+
             <dt>
                 @Html.DisplayNameFor(model => model.ModelYili)
             </dt>
-    
+
             <dd>
                 @Html.DisplayFor(model => model.ModelYili)
             </dd>
-    
+
             <dt>
                 @Html.DisplayNameFor(model => model.Yakit)
             </dt>
-    
+
             <dd>
                 @Html.DisplayFor(model => model.Yakit)
             </dd>
-    
+
             <dt>
                 @Html.DisplayNameFor(model => model.Vites)
             </dt>
-    
+
             <dd>
                 @Html.DisplayFor(model => model.Vites)
             </dd>
-    
+
             <dt>
                 @Html.DisplayNameFor(model => model.Fiyat)
             </dt>
-    
+
             <dd>
                 @Html.DisplayFor(model => model.Fiyat)
             </dd>
-    
+
         </dl>
     </div>
     <p>

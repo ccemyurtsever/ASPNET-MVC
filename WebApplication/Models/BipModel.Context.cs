@@ -26,5 +26,6 @@ namespace WebApplication.Models
         }
     
         public virtual DbSet<Tbl_Araclar> Tbl_Araclar { get; set; }
+        public virtual DbSet<Tbl_Rezervasyonlar> Tbl_Rezervasyonlar { get; set; }
     }
 }

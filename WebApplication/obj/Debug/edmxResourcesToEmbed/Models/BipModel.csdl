@@ -14,5 +14,18 @@
   </EntityType>
   <EntityContainer Name="Db_AracKiralamaEntities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Tbl_Araclar" EntityType="Self.Tbl_Araclar" />
+    <EntitySet Name="Tbl_Rezervasyonlar" EntityType="Db_AracKiralamaModel.Tbl_Rezervasyonlar" />
   </EntityContainer>
+  <EntityType Name="Tbl_Rezervasyonlar">
+    <Key>
+      <PropertyRef Name="RezervasyonId" />
+    </Key>
+    <Property Name="RezervasyonId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AracId" Type="Int32" />
+    <Property Name="TcKimlik" Type="String" MaxLength="11" FixedLength="false" Unicode="false" />
+    <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AlmaTarihi" Type="DateTime" Precision="0" />
+    <Property Name="TeslimTarihi" Type="DateTime" Precision="0" />
+    <Property Name="Ucret" Type="Decimal" Precision="19" Scale="4" />
+  </EntityType>
 </Schema>

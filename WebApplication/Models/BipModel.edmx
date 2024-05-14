@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="Db_AracKiralamaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="Db_AracKiralamaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Tbl_Araclar">
           <Key>
             <PropertyRef Name="AracId" />
@@ -17,11 +17,23 @@
           <Property Name="Vites" Type="nvarchar" MaxLength="20" />
           <Property Name="Fiyat" Type="money" />
         </EntityType>
+        <EntityType Name="Tbl_Rezervasyonlar">
+          <Key>
+            <PropertyRef Name="RezervasyonId" />
+          </Key>
+          <Property Name="RezervasyonId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="AracId" Type="int" />
+          <Property Name="TcKimlik" Type="varchar" MaxLength="11" />
+          <Property Name="AdSoyad" Type="nvarchar" MaxLength="50" />
+          <Property Name="AlmaTarihi" Type="date" />
+          <Property Name="TeslimTarihi" Type="date" />
+          <Property Name="Ucret" Type="money" />
+        </EntityType>
         <EntityContainer Name="Db_AracKiralamaModelStoreContainer">
           <EntitySet Name="Tbl_Araclar" EntityType="Self.Tbl_Araclar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_Rezervasyonlar" EntityType="Self.Tbl_Rezervasyonlar" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="Db_AracKiralamaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -39,7 +51,20 @@
         </EntityType>
         <EntityContainer Name="Db_AracKiralamaEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Tbl_Araclar" EntityType="Self.Tbl_Araclar" />
+          <EntitySet Name="Tbl_Rezervasyonlar" EntityType="Db_AracKiralamaModel.Tbl_Rezervasyonlar" />
         </EntityContainer>
+        <EntityType Name="Tbl_Rezervasyonlar">
+          <Key>
+            <PropertyRef Name="RezervasyonId" />
+          </Key>
+          <Property Name="RezervasyonId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="AracId" Type="Int32" />
+          <Property Name="TcKimlik" Type="String" MaxLength="11" FixedLength="false" Unicode="false" />
+          <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AlmaTarihi" Type="DateTime" Precision="0" />
+          <Property Name="TeslimTarihi" Type="DateTime" Precision="0" />
+          <Property Name="Ucret" Type="Decimal" Precision="19" Scale="4" />
+        </EntityType>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -56,6 +81,19 @@
                 <ScalarProperty Name="Yakit" ColumnName="Yakit" />
                 <ScalarProperty Name="Vites" ColumnName="Vites" />
                 <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_Rezervasyonlar">
+            <EntityTypeMapping TypeName="Db_AracKiralamaModel.Tbl_Rezervasyonlar">
+              <MappingFragment StoreEntitySet="Tbl_Rezervasyonlar">
+                <ScalarProperty Name="Ucret" ColumnName="Ucret" />
+                <ScalarProperty Name="TeslimTarihi" ColumnName="TeslimTarihi" />
+                <ScalarProperty Name="AlmaTarihi" ColumnName="AlmaTarihi" />
+                <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+                <ScalarProperty Name="TcKimlik" ColumnName="TcKimlik" />
+                <ScalarProperty Name="AracId" ColumnName="AracId" />
+                <ScalarProperty Name="RezervasyonId" ColumnName="RezervasyonId" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

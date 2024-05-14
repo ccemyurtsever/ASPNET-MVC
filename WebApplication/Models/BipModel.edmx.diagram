@@ -6,6 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="4d6f324668164fea8a830a49e01406d0" Name="Diagram1">
         <EntityTypeShape EntityType="Db_AracKiralamaModel.Tbl_Araclar" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Db_AracKiralamaModel.Tbl_Rezervasyonlar" Width="1.5" PointX="3.375" PointY="0.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

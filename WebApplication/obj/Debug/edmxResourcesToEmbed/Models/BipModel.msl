@@ -14,5 +14,18 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Rezervasyonlar">
+      <EntityTypeMapping TypeName="Db_AracKiralamaModel.Tbl_Rezervasyonlar">
+        <MappingFragment StoreEntitySet="Tbl_Rezervasyonlar">
+          <ScalarProperty Name="Ucret" ColumnName="Ucret" />
+          <ScalarProperty Name="TeslimTarihi" ColumnName="TeslimTarihi" />
+          <ScalarProperty Name="AlmaTarihi" ColumnName="AlmaTarihi" />
+          <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+          <ScalarProperty Name="TcKimlik" ColumnName="TcKimlik" />
+          <ScalarProperty Name="AracId" ColumnName="AracId" />
+          <ScalarProperty Name="RezervasyonId" ColumnName="RezervasyonId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
   </EntityContainerMapping>
 </Mapping>

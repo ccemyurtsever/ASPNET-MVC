@@ -20,5 +20,26 @@ namespace WebApplication.Controllers
             Tbl_Araclar arac_bilgileri = db.Tbl_Araclar.Find(id);
             return View(arac_bilgileri);
         }
+
+        [HttpGet]
+        public ActionResult Rezervation(int? id)
+        {
+            Tbl_Araclar arac_bilgileri = db.Tbl_Araclar.Find(id);
+            ViewData["Marka"] = arac_bilgileri.Marka;
+            ViewData["Model"] = arac_bilgileri.Model;
+            ViewData["Fiyat"] = arac_bilgileri.Fiyat;
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Rezervation([Bind(Include = "RezervasyonId,AracId,Tckimlik,AdSoyad,AlmaTarihi,TeslimTarihi,Ucret")] Tbl_Rezervasyonlar rezervasyon)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Tbl_Rezervasyonlar.Add(rezervasyon);
+                db.SaveChanges();
+            }
+            ViewBag.Message = "Tebrikler, rezervasyon işleminiz başarıyla gerçekleşti.";
+            return View();
+        }
     }
 }
