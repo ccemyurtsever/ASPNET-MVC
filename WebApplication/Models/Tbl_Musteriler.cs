@@ -14,10 +14,11 @@ namespace WebApplication.Models
     
     public partial class Tbl_Musteriler
     {
-        public int TcKimlik { get; set; }
+        public string TcKimlik { get; set; }
         public string AdSoyad { get; set; }
         public Nullable<System.DateTime> DogumTarihi { get; set; }
         public string Cinsiyet { get; set; }
-        public byte[] Sifre { get; set; }
+        public string Telefon { get; set; }
+        public string Sifre { get; set; }
     }
 }

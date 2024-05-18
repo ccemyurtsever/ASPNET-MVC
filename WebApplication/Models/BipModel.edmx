@@ -21,11 +21,12 @@
           <Key>
             <PropertyRef Name="TcKimlik" />
           </Key>
-          <Property Name="TcKimlik" Type="int" Nullable="false" />
+          <Property Name="TcKimlik" Type="varchar" MaxLength="11" Nullable="false" />
           <Property Name="AdSoyad" Type="nvarchar" MaxLength="50" />
           <Property Name="DogumTarihi" Type="date" />
           <Property Name="Cinsiyet" Type="varchar" MaxLength="1" />
-          <Property Name="Sifre" Type="varbinary" MaxLength="32" />
+          <Property Name="Telefon" Type="varchar" MaxLength="11" />
+          <Property Name="Sifre" Type="varchar" MaxLength="32" />
         </EntityType>
         <EntityType Name="Tbl_Rezervasyonlar">
           <Key>
@@ -81,11 +82,12 @@
           <Key>
             <PropertyRef Name="TcKimlik" />
           </Key>
-          <Property Name="TcKimlik" Type="Int32" Nullable="false" />
+          <Property Name="TcKimlik" Type="String" Nullable="false" MaxLength="11" FixedLength="false" Unicode="false" />
           <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <Property Name="DogumTarihi" Type="DateTime" Precision="0" />
           <Property Name="Cinsiyet" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
-          <Property Name="Sifre" Type="Binary" MaxLength="32" FixedLength="false" />
+          <Property Name="Telefon" Type="String" MaxLength="11" FixedLength="false" Unicode="false" />
+          <Property Name="Sifre" Type="String" MaxLength="32" FixedLength="false" Unicode="false" />
         </EntityType>
       </Schema>
     </edmx:ConceptualModels>
@@ -123,6 +125,7 @@
             <EntityTypeMapping TypeName="Db_AracKiralamaModel.Tbl_Musteriler">
               <MappingFragment StoreEntitySet="Tbl_Musteriler">
                 <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+                <ScalarProperty Name="Telefon" ColumnName="Telefon" />
                 <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
                 <ScalarProperty Name="DogumTarihi" ColumnName="DogumTarihi" />
                 <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />

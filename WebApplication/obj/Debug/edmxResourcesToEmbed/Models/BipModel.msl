@@ -31,6 +31,7 @@
       <EntityTypeMapping TypeName="Db_AracKiralamaModel.Tbl_Musteriler">
         <MappingFragment StoreEntitySet="Tbl_Musteriler">
           <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
           <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
           <ScalarProperty Name="DogumTarihi" ColumnName="DogumTarihi" />
           <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />

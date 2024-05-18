@@ -16,11 +16,12 @@
     <Key>
       <PropertyRef Name="TcKimlik" />
     </Key>
-    <Property Name="TcKimlik" Type="int" Nullable="false" />
+    <Property Name="TcKimlik" Type="varchar" MaxLength="11" Nullable="false" />
     <Property Name="AdSoyad" Type="nvarchar" MaxLength="50" />
     <Property Name="DogumTarihi" Type="date" />
     <Property Name="Cinsiyet" Type="varchar" MaxLength="1" />
-    <Property Name="Sifre" Type="varbinary" MaxLength="32" />
+    <Property Name="Telefon" Type="varchar" MaxLength="11" />
+    <Property Name="Sifre" Type="varchar" MaxLength="32" />
   </EntityType>
   <EntityType Name="Tbl_Rezervasyonlar">
     <Key>

@@ -33,10 +33,11 @@
     <Key>
       <PropertyRef Name="TcKimlik" />
     </Key>
-    <Property Name="TcKimlik" Type="Int32" Nullable="false" />
+    <Property Name="TcKimlik" Type="String" Nullable="false" MaxLength="11" FixedLength="false" Unicode="false" />
     <Property Name="AdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
     <Property Name="DogumTarihi" Type="DateTime" Precision="0" />
     <Property Name="Cinsiyet" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
-    <Property Name="Sifre" Type="Binary" MaxLength="32" FixedLength="false" />
+    <Property Name="Telefon" Type="String" MaxLength="11" FixedLength="false" Unicode="false" />
+    <Property Name="Sifre" Type="String" MaxLength="32" FixedLength="false" Unicode="false" />
   </EntityType>
 </Schema>

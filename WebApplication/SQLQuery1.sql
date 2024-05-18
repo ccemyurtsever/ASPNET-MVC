@@ -1,0 +1,1 @@
+﻿SELECT CONVERT(varchar(32), HASHBYTES('MD5','123'),2)

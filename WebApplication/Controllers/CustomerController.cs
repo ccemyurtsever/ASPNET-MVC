@@ -33,6 +33,11 @@ namespace WebApplication.Controllers
             }
         }
 
+        public ActionResult Giris()
+        {
+            return View();
+        }
+
         [HttpPost]
         public ActionResult Giris(FormCollection bilgi)
         {
@@ -50,6 +55,27 @@ namespace WebApplication.Controllers
                 Session["session_tc"] = tc;
                 ViewData["sonuc"] = "Tebrikler...";
                 //return RedirectToAction("Profil", "Customer");
+            }
+            return View();
+
+            }
+        public ActionResult Kayit()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Kayit([Bind(Include ="TcKimlik,AdSoyad,DogumTarihi,Cinsiyet,Sifre")]Tbl_Musteriler müsteri)
+        {
+            db.Tbl_Musteriler.Add(müsteri);
+            int result = db.SaveChanges();
+            if (result > 0)
+            {
+                ViewData["sonuc"] = "Tebrikler ! Kaydınız Gerçekleşti ...";
+            }
+            else
+            {
+                ViewData["sonuc"] = "Hata ! Kaydınız Gerçekleştirilemedi ...";
             }
             return View();
         }

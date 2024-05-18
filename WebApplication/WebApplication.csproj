@@ -175,6 +175,7 @@
     <Content Include="Views\Vehicle\Rezervation.cshtml" />
     <Content Include="Views\Rezervation\Index.cshtml" />
     <Content Include="Views\Customer\Giris.cshtml" />
+    <Content Include="Views\Customer\Kayit.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
