@@ -39,6 +39,8 @@
           <Property Name="AlmaTarihi" Type="date" />
           <Property Name="TeslimTarihi" Type="date" />
           <Property Name="Ucret" Type="money" />
+          <Property Name="IptalMi" Type="varchar" MaxLength="10" />
+          <Property Name="IptalTarihi" Type="date" />
         </EntityType>
         <EntityContainer Name="Db_AracKiralamaModelStoreContainer">
           <EntitySet Name="Tbl_Araclar" EntityType="Self.Tbl_Araclar" Schema="dbo" store:Type="Tables" />
@@ -77,6 +79,8 @@
           <Property Name="AlmaTarihi" Type="DateTime" Precision="0" />
           <Property Name="TeslimTarihi" Type="DateTime" Precision="0" />
           <Property Name="Ucret" Type="Decimal" Precision="19" Scale="4" />
+          <Property Name="IptalMi" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="IptalTarihi" Type="DateTime" Precision="0" />
         </EntityType>
         <EntityType Name="Tbl_Musteriler">
           <Key>
@@ -111,6 +115,8 @@
           <EntitySetMapping Name="Tbl_Rezervasyonlar">
             <EntityTypeMapping TypeName="Db_AracKiralamaModel.Tbl_Rezervasyonlar">
               <MappingFragment StoreEntitySet="Tbl_Rezervasyonlar">
+                <ScalarProperty Name="IptalTarihi" ColumnName="IptalTarihi" />
+                <ScalarProperty Name="IptalMi" ColumnName="IptalMi" />
                 <ScalarProperty Name="Ucret" ColumnName="Ucret" />
                 <ScalarProperty Name="TeslimTarihi" ColumnName="TeslimTarihi" />
                 <ScalarProperty Name="AlmaTarihi" ColumnName="AlmaTarihi" />

@@ -28,6 +28,8 @@
     <Property Name="AlmaTarihi" Type="DateTime" Precision="0" />
     <Property Name="TeslimTarihi" Type="DateTime" Precision="0" />
     <Property Name="Ucret" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="IptalMi" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="IptalTarihi" Type="DateTime" Precision="0" />
   </EntityType>
   <EntityType Name="Tbl_Musteriler">
     <Key>

@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\customer\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\customer\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCEMY_ONEDRIVE_DESKTOP_GITHUB_ASPNET_MVC_WEBAPPLICATION_APP_DATA_DB_ARACKIRALAMA.MDF/True/SqlTable/dbo.Tbl_Musteriler.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|c:\\users\\ccemy\\onedrive\\desktop\\github\\aspnet-mvc\\webapplication\\views\\customer\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\customer\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\customer\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\customer\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCEMY_ONEDRIVE_DESKTOP_GITHUB_ASPNET_MVC_WEBAPPLICATION_APP_DATA_DB_ARACKIRALAMA.MDF/True/SqlTable/dbo.Tbl_Musteriler.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCEMY_ONEDRIVE_DESKTOP_GITHUB_ASPNET_MVC_WEBAPPLICATION_APP_DATA_DB_ARACKIRALAMA.MDF/True/SqlTable/dbo.Tbl_Rezervasyonlar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -76,21 +76,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "dbo.Tbl_Musteriler [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCEMY_ONEDRIVE_DESKTOP_GITHUB_ASPNET_MVC_WEBAPPLICATION_APP_DATA_DB_ARACKIRALAMA.MDF/True/SqlTable/dbo.Tbl_Musteriler.sql",
               "ToolTip": "dbo.Tbl_Musteriler [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-18T14:17:42.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T14:17:42.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Kayit.cshtml",
               "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Kayit.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Kayit.cshtml",
@@ -98,33 +97,33 @@
               "RelativeToolTip": "Views\\Customer\\Kayit.cshtml",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T13:49:58.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T13:49:58.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Giris.cshtml",
               "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Giris.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Giris.cshtml",
               "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Giris.cshtml",
               "RelativeToolTip": "Views\\Customer\\Giris.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-18T13:25:43.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAAAQAAAA",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAJkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T12:44:42.481Z"
+              "WhenOpened": "2024-05-18T12:44:42.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

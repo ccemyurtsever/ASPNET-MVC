@@ -21,5 +21,7 @@ namespace WebApplication.Models
         public Nullable<System.DateTime> AlmaTarihi { get; set; }
         public Nullable<System.DateTime> TeslimTarihi { get; set; }
         public Nullable<decimal> Ucret { get; set; }
+        public string IptalMi { get; set; }
+        public Nullable<System.DateTime> IptalTarihi { get; set; }
     }
 }

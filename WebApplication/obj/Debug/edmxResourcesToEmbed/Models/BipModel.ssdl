@@ -34,6 +34,8 @@
     <Property Name="AlmaTarihi" Type="date" />
     <Property Name="TeslimTarihi" Type="date" />
     <Property Name="Ucret" Type="money" />
+    <Property Name="IptalMi" Type="varchar" MaxLength="10" />
+    <Property Name="IptalTarihi" Type="date" />
   </EntityType>
   <EntityContainer Name="Db_AracKiralamaModelStoreContainer">
     <EntitySet Name="Tbl_Araclar" EntityType="Self.Tbl_Araclar" Schema="dbo" store:Type="Tables" />
