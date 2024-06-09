@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|c:\\users\\ccemy\\onedrive\\desktop\\github\\aspnet-mvc\\webapplication\\views\\customer\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\customer\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\customer\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\customer\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|c:\\users\\ccemy\\onedrive\\desktop\\github\\aspnet-mvc\\webapplication\\views\\vehicleyonet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\vehicleyonet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCEMY_ONEDRIVE_DESKTOP_GITHUB_ASPNET_MVC_WEBAPPLICATION_APP_DATA_DB_ARACKIRALAMA.MDF/True/SqlTable/dbo.Tbl_Musteriler.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -25,48 +17,92 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\vehicle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\vehicle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\vehicle\\rezervation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\vehicle\\rezervation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\VehicleYonet\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\vehicle\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\vehicle\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\SaveImages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\VehicleYonet\\SaveImages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\vehicleyonet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\vehicleyonet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\VehicleYonet\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\controllers\\vehicleyonetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:controllers\\vehicleyonetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\vehicleyonet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\vehicleyonet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\css\\stilim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:css\\stilim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Vehicle\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\VehicleYonet\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Vehicle\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\views\\vehicleyonet\\saveimages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:views\\vehicleyonet\\saveimages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\VehicleYonet\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Rezervation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Vehicle\\Rezervation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Rezervation\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Rezervation\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\SifreDegistir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Customer\\SifreDegistir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\RezervationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Controllers\\RezervationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Profil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Customer\\Profil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Customer\\Kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Views\\Customer\\Giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\VehicleYonetController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Controllers\\VehicleYonetController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\VehicleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Controllers\\VehicleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Css\\stilim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{331E3B5A-61DF-4DA2-923D-ACE61DBDE71B}|WebApplication.csproj|solutionrelative:Css\\stilim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,150 +112,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.Tbl_Musteriler [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCEMY_ONEDRIVE_DESKTOP_GITHUB_ASPNET_MVC_WEBAPPLICATION_APP_DATA_DB_ARACKIRALAMA.MDF/True/SqlTable/dbo.Tbl_Musteriler.sql",
-              "ToolTip": "dbo.Tbl_Musteriler [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-18T14:17:42.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Kayit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Kayit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customer\\Kayit.cshtml",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Kayit.cshtml",
-              "RelativeToolTip": "Views\\Customer\\Kayit.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T13:49:58.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Giris.cshtml",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Giris.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customer\\Giris.cshtml",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Giris.cshtml",
-              "RelativeToolTip": "Views\\Customer\\Giris.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T13:25:43.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAIUAAAAAAAAAAAAAAJkAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T12:44:42.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "dbo.Tbl_Rezervasyonlar [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCEMY_ONEDRIVE_DESKTOP_GITHUB_ASPNET_MVC_WEBAPPLICATION_APP_DATA_DB_ARACKIRALAMA.MDF/True/SqlTable/dbo.Tbl_Rezervasyonlar.sql",
-              "ToolTip": "dbo.Tbl_Rezervasyonlar [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-18T13:28:52.684Z"
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:05:37.581Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SQLQuery1.sql",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\SQLQuery1.sql",
-              "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\SQLQuery1.sql",
-              "RelativeToolTip": "SQLQuery1.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-18T13:30:09.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Rezervation.cshtml",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Rezervation.cshtml",
-              "RelativeDocumentMoniker": "Views\\Vehicle\\Rezervation.cshtml",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Rezervation.cshtml",
-              "RelativeToolTip": "Views\\Vehicle\\Rezervation.cshtml",
-              "ViewState": "AQIAADUAAAAAAAAAAAAcwFYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T12:36:39.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Vehicle\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Details.cshtml",
-              "RelativeToolTip": "Views\\Vehicle\\Details.cshtml",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAwGEAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T09:52:53.346Z"
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:04:24.205Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Vehicle\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Index.cshtml",
-              "RelativeToolTip": "Views\\Vehicle\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\VehicleYonet\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Create.cshtml",
+              "RelativeToolTip": "Views\\VehicleYonet\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T09:38:56.21Z"
+              "WhenOpened": "2024-05-20T16:48:14.404Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "VehicleController.cs",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\VehicleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\VehicleController.cs",
-              "RelativeToolTip": "Controllers\\VehicleController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA4wBsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:35:00.176Z"
+              "Title": "SaveImages.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\SaveImages.cshtml",
+              "RelativeDocumentMoniker": "Views\\VehicleYonet\\SaveImages.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\SaveImages.cshtml",
+              "RelativeToolTip": "Views\\VehicleYonet\\SaveImages.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:09:56.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "stilim.css",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Css\\stilim.css",
-              "RelativeDocumentMoniker": "Css\\stilim.css",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Css\\stilim.css",
-              "RelativeToolTip": "Css\\stilim.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-13T10:46:13.042Z"
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\VehicleYonet\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Index.cshtml",
+              "RelativeToolTip": "Views\\VehicleYonet\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:03:56.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\VehicleYonet\\Delete.cshtml",
               "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Delete.cshtml",
               "RelativeToolTip": "Views\\VehicleYonet\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-13T10:39:20.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T10:35:37.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
@@ -231,51 +213,212 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehicle\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vehicle\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T10:35:37.052Z"
+              "WhenOpened": "2024-05-14T09:38:56.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\VehicleYonet\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Details.cshtml",
+              "RelativeToolTip": "Views\\VehicleYonet\\Details.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:50:48.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehicle\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Details.cshtml",
+              "RelativeToolTip": "Views\\Vehicle\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T09:52:53.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Tbl_Rezervasyonlar [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCEMY_ONEDRIVE_DESKTOP_GITHUB_ASPNET_MVC_WEBAPPLICATION_APP_DATA_DB_ARACKIRALAMA.MDF/True/SqlTable/dbo.Tbl_Rezervasyonlar.sql",
+              "ToolTip": "dbo.Tbl_Rezervasyonlar [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-18T13:28:52.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Tbl_Musteriler [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_CCEMY_ONEDRIVE_DESKTOP_GITHUB_ASPNET_MVC_WEBAPPLICATION_APP_DATA_DB_ARACKIRALAMA.MDF/True/SqlTable/dbo.Tbl_Musteriler.sql",
+              "ToolTip": "dbo.Tbl_Musteriler [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-18T14:17:42.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\VehicleYonet\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Edit.cshtml",
+              "RelativeToolTip": "Views\\VehicleYonet\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:48:32.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rezervation.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Rezervation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vehicle\\Rezervation.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Vehicle\\Rezervation.cshtml",
+              "RelativeToolTip": "Views\\Vehicle\\Rezervation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:36:39.708Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "SaveImages.cshtml",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\SaveImages.cshtml",
-              "RelativeDocumentMoniker": "Views\\VehicleYonet\\SaveImages.cshtml",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\SaveImages.cshtml",
-              "RelativeToolTip": "Views\\VehicleYonet\\SaveImages.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T09:09:56.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\VehicleYonet\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\VehicleYonet\\Index.cshtml",
-              "RelativeToolTip": "Views\\VehicleYonet\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABBAAAA",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Rezervation\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rezervation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Rezervation\\Index.cshtml",
+              "RelativeToolTip": "Views\\Rezervation\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T09:03:56.54Z"
+              "WhenOpened": "2024-05-20T16:39:04.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
+              "Title": "SifreDegistir.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\SifreDegistir.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\SifreDegistir.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\SifreDegistir.cshtml",
+              "RelativeToolTip": "Views\\Customer\\SifreDegistir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:40:25.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RezervationController.cs",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\RezervationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RezervationController.cs",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\RezervationController.cs",
+              "RelativeToolTip": "Controllers\\RezervationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:38:58.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profil.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Profil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Profil.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Profil.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Profil.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:40:09.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Kayit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Kayit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Kayit.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Kayit.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Kayit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:49:58.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Giris.cshtml",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Giris.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Giris.cshtml",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Views\\Customer\\Giris.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Giris.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:25:43.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:44:42.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "VehicleYonetController.cs",
               "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\VehicleYonetController.cs",
               "RelativeDocumentMoniker": "Controllers\\VehicleYonetController.cs",
               "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\VehicleYonetController.cs",
               "RelativeToolTip": "Controllers\\VehicleYonetController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T09:03:43.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:35:00.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-18T13:30:09.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "stilim.css",
+              "DocumentMoniker": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Css\\stilim.css",
+              "RelativeDocumentMoniker": "Css\\stilim.css",
+              "ToolTip": "C:\\Users\\ccemy\\OneDrive\\Desktop\\GitHub\\ASPNET-MVC\\WebApplication\\Css\\stilim.css",
+              "RelativeToolTip": "Css\\stilim.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-13T10:46:13.042Z"
             }
           ]
         }

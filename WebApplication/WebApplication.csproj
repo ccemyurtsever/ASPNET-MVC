@@ -178,6 +178,7 @@
     <Content Include="Views\Customer\Kayit.cshtml" />
     <Content Include="Views\Customer\Profil.cshtml" />
     <Content Include="Views\Customer\SifreDegistir.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
